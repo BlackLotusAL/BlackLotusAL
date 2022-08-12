@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Coton's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackLotus-AL&count_private=true&show_icons=true&theme=monokai)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackLotus-AL&layout=compact)](https://github.com/BlackLotus-AL/github-readme-stats)
+
+
 <!--
 **BlackLotus-AL/BlackLotus-AL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
